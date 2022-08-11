@@ -1,0 +1,35 @@
+{
+  "enabled": true,
+  "1": [
+    {
+      "storeId": "11590",
+      "storeName": "团团便利（BBY)",
+      "storeNameEn": "Tuantuan Convenience (BBY)",
+      "longitude": -122.9845215,
+      "latitude": 49.223919,
+      "city": "burnaby",
+      "address": "5481 Kingsway"
+    },
+    {
+      "storeId": "12333",
+      "storeName": "团团便利（RMD)",
+      "storeNameEn": "Tuantuan Convenience (RMD)",
+      "longitude": -123.1032858,
+      "latitude": 49.1866901,
+      "city": "richmond",
+      "address": "133-3751 Shell road"
+    }
+  ],
+  "2": [
+    {
+      "storeId": "12342",
+      "storeName": "团团便利（DT)",
+      "storeNameEn": "Tuantuan Convenience (DT)",
+      "longitude": -79.3986746,
+      "latitude": 43.6553315,
+      "city": "toronto",
+      "address": "349 Spadina Ave",
+      "postcode": "M5T 2G3"
+    }
+  ]
+}
