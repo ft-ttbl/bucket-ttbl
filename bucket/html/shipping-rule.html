@@ -9,10 +9,19 @@
       body {
         font-family: "Roboto", "Helvetica", "Arial", sans-serif;
         margin: 0;
+        height: fit-content;
       }
       .rule-container {
         padding: 15px;
         width: 100%;
+        box-sizing: border-box;
+      }
+      .rule-divider {
+        flex-shrink: 0;
+        border-width: 0;
+        border-style: solid;
+        border-color: rgba(0, 0, 0, 0.12);
+        border-bottom-width: thin;
       }
       .rule-title {
         font-size: 1.5714285714285714rem;
@@ -25,7 +34,7 @@
       .rule-txt-box {
         display: flex;
         flex-direction: column;
-        margin-bottom: 18px;
+        margin: 18px 0;
       }
       .rule-txt {
         color: #333333;
@@ -37,6 +46,7 @@
   <body>
     <div class="rule-container">
       <div class="rule-title">团团便利配送规则</div>
+      <hr class="rule-divider" />
       <div class="rule-txt-box">
         <div class="rule-txt">运费7公里内$29.99减$2.99</div>
         <div class="rule-txt">超过7公里运费$1/公里</div>
