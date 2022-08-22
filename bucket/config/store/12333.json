@@ -1,0 +1,10 @@
+{
+  "storeId": "12333",
+  "shippingRule": {
+    "description": "",
+    "title": "团团便利配送规则",
+    "titleEn": "Shipping & Delivery Policy",
+    "URL": "https://ft-ttbl.github.io/bucket-ttbl/static/html/shipping-rule.html",
+    "enURL": "https://ft-ttbl.github.io/bucket-ttbl/static/html/shipping-rule-en.html"
+  }
+}
