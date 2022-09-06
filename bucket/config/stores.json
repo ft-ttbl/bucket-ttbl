@@ -2,6 +2,7 @@
   "enabled": true,
   "1": [
     {
+      "wechatId": "1",
       "storeId": "11590",
       "storeName": "团团便利（BBY)",
       "storeNameEn": "Tuantuan Convenience (BBY)",
@@ -11,6 +12,7 @@
       "address": "5481 Kingsway"
     },
     {
+      "wechatId": "1",
       "storeId": "12333",
       "storeName": "团团便利（RMD)",
       "storeNameEn": "Tuantuan Convenience (RMD)",
@@ -22,6 +24,7 @@
   ],
   "2": [
     {
+      "wechatId": "2",
       "storeId": "12342",
       "storeName": "团团便利（DT)",
       "storeNameEn": "Tuantuan Convenience (DT)",
