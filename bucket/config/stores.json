@@ -10,7 +10,7 @@
       "latitude": 49.223919,
       "city": "burnaby",
       "address": "5481 Kingsway",
-      "enableBTest": true
+      "enableTTMarketQrCodeEntry": true
     },
     {
       "wechatId": "1",
@@ -20,7 +20,8 @@
       "longitude": -123.1032858,
       "latitude": 49.1866901,
       "city": "richmond",
-      "address": "133-3751 Shell road"
+      "address": "133-3751 Shell road",
+      "enableTTMarketQrCodeEntry": true
     }
   ],
   "2": [
@@ -33,7 +34,20 @@
       "latitude": 43.6553315,
       "city": "toronto",
       "address": "349 Spadina Ave",
-      "postcode": "M5T 2G3"
+      "postcode": "M5T 2G3",
+       "enableTTMarketQrCodeEntry": false
+    },
+    {
+        "storeId": "13042",
+        "wechatId": "2",
+        "storeName": "团团便利（NY)",
+        "storeNameEn": "TT MART (NY)",
+        "longitude": -79.4196037,
+        "latitude": 43.8033607,
+        "city": "vaughan",
+        "address": "7181 Yonge St",
+        "postcode": "L3T 0C7",
+        "enableTTMarketQrCodeEntry": true
     }
   ]
 }
