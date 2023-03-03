@@ -9,8 +9,7 @@
       "longitude": -122.9845215,
       "latitude": 49.223919,
       "city": "burnaby",
-      "address": "5481 Kingsway",
-      "enableTTMarketQrCodeEntry": true
+      "address": "5481 Kingsway"
     },
     {
       "wechatId": "1",
@@ -20,8 +19,7 @@
       "longitude": -123.1032858,
       "latitude": 49.1866901,
       "city": "richmond",
-      "address": "133-3751 Shell road",
-      "enableTTMarketQrCodeEntry": true
+      "address": "133-3751 Shell road"
     }
   ],
   "2": [
@@ -34,8 +32,7 @@
       "latitude": 43.6553315,
       "city": "toronto",
       "address": "349 Spadina Ave",
-      "postcode": "M5T 2G3",
-       "enableTTMarketQrCodeEntry": false
+      "postcode": "M5T 2G3"
     },
     {
         "storeId": "13042",
@@ -46,8 +43,7 @@
         "latitude": 43.8033607,
         "city": "vaughan",
         "address": "7181 Yonge St",
-        "postcode": "L3T 0C7",
-        "enableTTMarketQrCodeEntry": true
+        "postcode": "L3T 0C7"
     }
   ]
 }
